@@ -14,4 +14,4 @@ end
 
 group :test, :development do
   gem 'sqlite3-ruby', :require => 'sqlite3'
-end   
+end     
